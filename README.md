@@ -3,7 +3,7 @@
   Welcome to Fatma Abdelmonem's profile.
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatmaabdelmonem&label=Profile%20views&color=0785b6&style=flat" alt="fatmaabdelmonem"/></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatmaabdelmonem&label=Profile%20views&color=#ccc&style=flat" alt="fatmaabdelmonem"/></p>
 
 - 🖥️ Iam a student of computer science and artificial intelligence in Cairo university.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
